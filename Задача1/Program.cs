@@ -1,6 +1,6 @@
 ﻿Console.Write("Введите num 1: ");
 int num1=Convert.ToInt32(Console.ReadLine());
-Console.Write("Введите nam 2: ");
+Console.Write("Введите num 2: ");
 int num2=Convert.ToInt32(Console.ReadLine());
 if (num1 > num2)
 {
